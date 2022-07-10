@@ -17,10 +17,6 @@ packageID=""
 
 #======================================= Play Area ==============================
 
-
-#======================================= Play Area ==============================
-
-
 class HTTPRequests:
 #-------------------------- Validate Process STARTS-----------------------------
 	def GetProcess(url,authUserName,authPassword):
