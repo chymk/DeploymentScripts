@@ -1,2 +1,2 @@
 # DeploymentScripts
-Python Codes meant to perform Boomi Deployment
+Python Code meant to perform Boomi Deployment
