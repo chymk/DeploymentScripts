@@ -1,6 +1,5 @@
 #Python 2.7.6
 #RestfulClient.py
-
 import sys
 import requests
 import os
