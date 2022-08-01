@@ -128,7 +128,6 @@ BoomiPassword=os.environ["BoomiPassword"]
 
 #-------------------------- Credentials Load ENDS-------------------------------------------
 
-
 class WorkSpace:
 	def ValidateComponents():
 		arr=[]
